@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <footer>
-      <h2>soy un footer</h2>
+      <h2 className="text-center">@braifz</h2>
     </footer>
   );
 };
